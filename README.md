@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d7312e55-ca29-4f66-a6c7-00777cd25cfd" width="100%" />
+  <img src="https://github.com/user-attachments/assets/d7312e55-ca29-4f66-a6c7-00777cd25cfd" width="50%" />
 </p>
-
 
 # Hi, I'm Linda! 👋 🤖
 
