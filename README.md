@@ -37,4 +37,4 @@ I’m a **Release Manager Support Team Member at IBM**, navigating the high-stak
 ### 📫 Connect with Me
 * 🔭 **Currently deep-diving:** IBM Consulting Advantage, C++ architecture, and ROS 2.
 * 💬 **Talk to me about:** Change request lifecycles, **Gundam/Evangelion** aesthetics, or why Hanja/Kanji/Hanzi mapping is a superpower.
-* ⚡ **Fun Fact:** I treat my life like a release pipeline—always iterating, always optimizing, and hopefully bug-free!![giphy](https://github.com/user-attachments/assets/7f61d7ab-510c-419c-a569-816e4e234b94)
+* ⚡ **Fun Fact:** I treat my life like a release pipeline—always iterating, always optimizing, and hopefully bug-free!!
