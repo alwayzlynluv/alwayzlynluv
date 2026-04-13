@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="30%" valign="top">
-      <img src="https://github.com/user-attachments/assets/5c51647b-bd0c-4e6b-a722-2c621cfdd48a" width="100%" />
+      <img src="https://github.com/user-attachments/assets/6ab39084-b7e9-44b9-8382-c3715517cfc5" width="100%" />
     </td>
     <td width="40%" valign="top">
       <h1>Hi, I'm Linda! 👋 🤖</h1>
