@@ -31,7 +31,7 @@
 
 ### 🎓 Certs & Coded Experiments
 * 📜 **IBM Machine Learning Professional:** (Certified ✅)
-* ☁️ **AWS ML Engineer Associate:** (Current boss battle 🎮)
+* ☁️ **AWS ML Engineer Associate:** (Certified ✅)
 * 🏮 **[Polyglot Flow](https://github.com/alwayzlynluv/Polyglot-AI-Hub):** My CJK word processor using XGBoost to unify linguistic datasets.
 
 ---
